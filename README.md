@@ -8,7 +8,7 @@ Includes calibrating the sensor and re-centering the origin to the current posit
 
 ## STM32CubeIDE Settings
 
-<img src="/Images/Pin COnfigurations.jpg" width="200" align="left"/>
+<img src="/Images/Pin COnfigurations.jpg" width="200"/>
 
 ## Acknowledgements
 
